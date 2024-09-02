@@ -1,0 +1,2 @@
+# Predictive-Vigilance-AI-and-ML-Methods-for-DDoS-Attack-Detection-and-Forecasting
+The primary aim of this project is to design, implement, and evaluate a machine learning-based system for classifying and predicting DDoS attacks. This involves the development of algorithms capable of analyzing network traffic patterns, identifying potential threats, and predicting impending DDoS attacks in real-time.
